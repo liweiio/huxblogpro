@@ -1,3 +1,12 @@
+# 2017-10-30 升级记录
+1. 下载huxbolg
+2. 修改_config.yml文件```anchorjs: fasle```取消锚点和注释disqus_username属性
+3. 修改post内容把目录信息从ajax生成修改为hexo自己生成
+
+# 2017-10-29 升级记录
+1. 修改page页面信息取消首页上半部分背景图,每个页面上加入获取背景图，移植css
+2. 移植blog.js信息,blog.css样式
+
 # Hexo-Theme-Huxblog
 
 > Ported Theme of [Hux Blog](https://github.com/Huxpro/huxpro.github.io), Thank [Huxpro](https://github.com/Huxpro) for designing such a flawless theme.
